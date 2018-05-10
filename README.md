@@ -4,7 +4,7 @@
 
 * 本例是一个简单的用phantomJs实现的网页截图功能基于window系统
 
-##配置phantomJs环境变量
+## 配置phantomJs环境变量
 
 * 把phantomJs.exe程序所在的路径配置到全局环境变量中，就可以随处调用phantomajs命令来运行脚本
 
